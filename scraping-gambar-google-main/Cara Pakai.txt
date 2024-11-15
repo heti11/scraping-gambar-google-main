@@ -1,0 +1,14 @@
+Prequesite:
+1. Buat environment dengan python terbaru
+2. Install semua library yang ada dalam file README.md
+3. Aktifkan environment yang sudah dibuat
+
+How to use:
+1. Cari gambar yang diinginkan via image.google.com
+2. Scroll sampai gambar terbawah
+3. Buka developer tools atau inspect element lalu pilih Console
+4. Copy code dalam js_code.js dalam Console, kemudian tekan enter
+5. Pindahkan urls.txt yang terdownload ke folder ini
+6. Buat folder penyimpanan gambar di folder ini
+7. Jalankan image-downloader2.py melalui console
+8. Contoh code cmd = python image-downloader2.py -u urls.txt -o nama_folder
